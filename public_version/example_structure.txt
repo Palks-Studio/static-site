@@ -1,0 +1,57 @@
+```
+/static_site/
+│
+├── index.html                        → Page d’accueil principale (présentation du socle)
+├── a-propos.html                     → À propos : philosophie et vision du projet
+├── approche.html                     → Approche de conception et principes techniques
+├── ressources.html                   → Ressources, références et bonnes pratiques
+├── liens.html                        → Liens externes et ressources complémentaires
+├── contact.html                      → Page de contact et informations de prise de contact
+├── conditions-utilisation.html       → Conditions d’utilisation et cadre d’usage
+├── mentions-legales.html             → Mentions légales obligatoires
+├── politique-confidentialite.html    → Politique de confidentialité et données
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css                 → Feuille de styles globale (modifiable ou intégrable)
+│   └── img/                          → Images, icônes et visuels du site
+│
+├── site.webmanifest                  → Manifest PWA (optionnel, personnalisable)
+│
+├── robots.txt                        → Règles d’exploration pour les moteurs de recherche
+├── sitemap.xml                       → Plan du site pour l’indexation SEO
+│
+├── README.md                         → Documentation d’utilisation et personnalisation
+└── LICENCE.md                        → Conditions d’utilisation et cadre légal
+```
+
+
+---
+
+
+```
+/static_site/
+│
+├── index.html                        → Main homepage (project overview)
+├── a-propos.html                     → About page: philosophy and project vision
+├── approche.html                     → Design approach and technical principles
+├── ressources.html                   → Resources, references and best practices
+├── liens.html                        → External links and complementary resources
+├── contact.html                      → Contact page and communication details
+├── conditions-utilisation.html       → Terms of use and usage framework
+├── mentions-legales.html             → Legal notice (mandatory information)
+├── politique-confidentialite.html    → Privacy policy and data handling
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css                 → Global stylesheet (editable or embeddable)
+│   └── img/                          → Images, icons and visual assets
+│
+├── site.webmanifest                  → PWA manifest (optional, customizable)
+│
+├── robots.txt                        → Search engine crawling rules
+├── sitemap.xml                       → Website sitemap for SEO indexing
+│
+├── README.md                         → Usage and customization documentation
+└── LICENCE.md                        → Terms of use and legal framework
+```

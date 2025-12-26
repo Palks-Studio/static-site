@@ -15,9 +15,15 @@ This foundation is intended for developers, integrators, or technical teams
 who want to retain full control over their code,  
 without relying on heavy frameworks, CMSs, or third-party services.
 
-**A public demo is available at**  
+### Public demos
+
+English version:  
 
 https://demo-en.palks-studio.com
+
+French version:  
+
+https://demo.palks-studio.com
 
 ---
 

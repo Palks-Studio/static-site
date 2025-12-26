@@ -15,9 +15,15 @@ Ce socle s’adresse à des **développeurs, intégrateurs ou équipes technique
 souhaitant conserver un contrôle total sur leur code,  
 sans dépendre de frameworks lourds, de CMS ou de services tiers.
 
-Une **démo publique** est disponible à l’adresse suivante :  
+### Démonstrations publiques
+
+Version française :  
 
 https://demo.palks-studio.com
+
+Version anglaise :  
+
+https://demo-en.palks-studio.com
 
 ---
 
@@ -127,15 +133,6 @@ Le CSS peut être :
 
 Les commentaires présents dans le code servent de repères
 et facilitent la prise en main.
-
----
-
-## Langue et documentation
-
-Les contenus, commentaires et textes fournis sont **actuellement en français**.
-
-Une version complète en anglais pourra être proposée ultérieurement,
-mais **n’est pas incluse à ce stade**.
 
 ---
 

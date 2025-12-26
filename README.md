@@ -6,7 +6,7 @@
 
 ![License](https://img.shields.io/badge/License-LICENSE.md-lightgreen.svg)
 
-# Professional Static Website Foundation
+# Palks Studio — Professional Static Website Foundation
 
 A complete static website base designed to serve as a clear, autonomous, and durable foundation  
 for professional, technical, or editorial projects.

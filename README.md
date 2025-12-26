@@ -15,9 +15,9 @@ This foundation is intended for developers, integrators, or technical teams
 who want to retain full control over their code,  
 without relying on heavy frameworks, CMSs, or third-party services.
 
-A public demo is available at:  
+**A public demo is available at**  
 
-https://demo.palks-studio.com
+https://demo-en.palks-studio.com
 
 ---
 
@@ -128,15 +128,6 @@ or kept in `assets/css/style.css`
 
 The comments included in the code act as markers  
 and make onboarding easier.
-
----
-
-## Language and documentation
-
-The provided content, comments, and texts are currently written in French.
-
-A full English version may be offered in the future,  
-but is not included at this stage.
 
 ---
 

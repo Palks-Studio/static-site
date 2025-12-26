@@ -30,17 +30,17 @@
 
 
 ```
-/static_site_fr/
+/static_site_en/
 │
 ├── index.html                        → Main homepage (project overview)
-├── a-propos.html                     → About page: philosophy and project vision
-├── approche.html                     → Design approach and technical principles
-├── ressources.html                   → Resources, references and best practices
-├── liens.html                        → External links and complementary resources
+├── about.html                        → About page: philosophy and project vision
+├── approach.html                     → Design approach and technical principles
+├── resources.html                    → Resources, references and best practices
+├── links.html                        → External links and complementary resources
 ├── contact.html                      → Contact page and communication details
-├── conditions-utilisation.html       → Terms of use and usage framework
-├── mentions-legales.html             → Legal notice (mandatory information)
-├── politique-confidentialite.html    → Privacy policy and data handling
+├── terms-of-use.html                 → Terms of use and usage framework
+├── legal-notice.html                 → Legal notice (mandatory information)
+├── privacy-policy.html               → Privacy policy and data handling
 │
 ├── assets/
 │   ├── css/
@@ -53,5 +53,5 @@
 ├── sitemap.xml                       → Website sitemap for SEO indexing
 │
 ├── README.md                         → Usage and customization documentation
-└── LICENCE.md                        → Terms of use and legal framework
+└── LICENSE.md                        → Terms of use and legal framework
 ```

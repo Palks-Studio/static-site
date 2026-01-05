@@ -68,70 +68,71 @@ Aucune dépendance externe n’est imposée.
 
 ## Pages incluses
 
-Le socle comprend notamment les pages suivantes :
+Le socle comprend notamment les pages suivantes :  
 
-- Accueil
-- À propos
-- Approche
-- Ressources
-- Liens
-- Contact
-- Conditions d’utilisation
-- Mentions légales
+- Accueil  
+- À propos  
+- Approche  
+- Ressources  
+- Liens  
+- Contact  
+- Conditions d’utilisation  
+- Mentions légales  
 - Politique de confidentialité
 
-Chaque page dispose :
+Chaque page dispose :  
 
-- de balises SEO propres
-- d’une structure cohérente
+- de balises SEO propres  
+- d’une structure cohérente  
 - d’un contenu générique prêt à être adapté
 
 ---
 
 ## Accessibilité
 
-Une attention particulière a été portée à l’accessibilité :
+Une attention particulière a été portée à l’accessibilité :  
 
-- Hiérarchie sémantique correcte (`h1` → `h2` → `h3`)
-- Structure HTML lisible par les lecteurs d’écran
-- Textes invisibles (`visually-hidden`) lorsque pertinent
+- Hiérarchie sémantique correcte (`h1` → `h2` → `h3`)  
+- Structure HTML lisible par les lecteurs d’écran  
+- Textes invisibles (`visually-hidden`) lorsque pertinent  
 - Attributs ARIA utilisés avec parcimonie
 
-Ce socle constitue une base saine pour des projets
+Ce socle constitue une base saine pour des projets  
 souhaitant intégrer l’accessibilité dès la conception.
 
 ---
 
 ## SEO
 
-Le projet est optimisé pour le référencement naturel :
+Le projet est optimisé pour le référencement naturel :  
 
-- Balises `title` et `meta description` par page
-- Open Graph et Twitter Cards
-- URLs canoniques
-- Sitemap
+- Balises `title` et `meta description` par page  
+- Open Graph et Twitter Cards  
+- URLs canoniques  
+- Sitemap  
 - Robots.txt
 
-Les contenus fournis sont volontairement génériques
+Les contenus fournis sont volontairement génériques  
 et doivent être personnalisés avant toute mise en production.
 
 ---
 
 ## Personnalisation rapide
 
-Pour adapter le site à votre projet :
+Pour adapter le site à votre projet :  
 
-- Remplacer le logo dans `assets/img/`
-- Modifier les textes dans les fichiers HTML
-- Ajuster les couleurs dans `:root`
-- Étendre ou adapter le CSS existant
+- Remplacer le logo dans `assets/img/`  
+- Modifier les textes dans les fichiers HTML  
+- Ajuster les couleurs dans `:root`  
+- Étendre ou adapter le CSS existant  
 - Ajouter du JavaScript si nécessaire
 
-Le CSS peut être :
-- intégré directement dans les pages
+Le CSS peut être :  
+
+- intégré directement dans les pages  
 - ou extrait dans `assets/css/style.css`
 
-Les commentaires présents dans le code servent de repères
+Les commentaires présents dans le code servent de repères  
 et facilitent la prise en main.
 
 ---

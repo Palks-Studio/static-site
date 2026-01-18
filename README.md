@@ -27,6 +27,38 @@ https://demo.palks-studio.com
 
 ---
 
+## Project structure
+
+```
+/static_site_en/
+│
+├── index.html                        → Main homepage (project overview)
+├── about.html                        → About page: philosophy and project vision
+├── approach.html                     → Design approach and technical principles
+├── resources.html                    → Resources, references and best practices
+├── links.html                        → External links and complementary resources
+├── contact.html                      → Contact page and communication details
+├── terms-of-use.html                 → Terms of use and usage framework
+├── legal-notice.html                 → Legal notice (mandatory information)
+├── privacy-policy.html               → Privacy policy and data handling
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css                 → Global stylesheet (editable or embeddable)
+│   └── img/                          → Images, icons and visual assets
+│
+├── site.webmanifest                  → PWA manifest (optional, customizable)
+│
+├── robots.txt                        → Search engine crawling rules
+├── sitemap.xml                       → Website sitemap for SEO indexing
+│
+├── README.md                         → Usage and customization documentation
+└── LICENSE.md                        → Terms of use and legal framework
+```
+
+
+---
+
 ## Project purpose
 
 This project provides a clean, readable, and maintainable HTML / CSS structure  
@@ -58,9 +90,6 @@ The project includes, among other things:
 - Code comments serving as customization markers  
 - Usage documentation  
 - A clear usage license
-
-The complete project structure is provided as an example  
-in the file `public_version/example_structure.txt`.
 
 No external dependencies are required.
 

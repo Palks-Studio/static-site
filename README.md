@@ -19,26 +19,48 @@
 > This repository is a technical presentation and documentation repository.  
 > It does not contain downloadable source code or production files.
 
-A complete static website base designed to serve as a clear, autonomous, and durable foundation  
-for professional, technical, or editorial projects.
+A complete static website base designed to serve as a **clear, autonomous, and long-lasting foundation**  
+for professional or technical projects.
 
-This foundation is intended for developers, integrators, or technical teams  
-who want to retain full control over their code,  
+This foundation is intended for **developers, integrators, and technical teams**  
+who want to keep full control over their code,  
 without relying on heavy frameworks, CMSs, or third-party services.
-
-### Public demos
-
-English version:  
-
-https://demo-en.palks-studio.com
-
-French version:  
-
-https://demo.palks-studio.com
 
 ---
 
-## Project structure
+## Project Goal
+
+This project provides a **clean and maintainable HTML / CSS structure**  
+to quickly launch a serious, readable, and scalable website.
+
+It is **not a fixed visual theme**,  
+but a **solid technical foundation**, designed to be:  
+
+- quickly understood  
+- easily customized  
+- extended without unnecessary complexity
+
+---
+
+## What the Foundation Includes
+
+The project includes:  
+
+- Multiple fully structured HTML pages  
+- A clear and coherent site architecture  
+- Organized, commented, and modular CSS  
+- A heading hierarchy aligned with SEO best practices  
+- ARIA attributes and accessible content  
+- A `robots.txt` file  
+- A `sitemap.xml` file  
+- Clear in-code comments for customization  
+- A straightforward usage license
+
+No external dependencies are imposed.
+
+---
+
+## Site Structure
 
 ```
 /static_site_en/
@@ -70,45 +92,9 @@ https://demo.palks-studio.com
 
 ---
 
-## Project purpose
+## Included Pages
 
-This project provides a clean, readable, and maintainable HTML / CSS structure  
-to quickly start a serious, well-structured, and scalable website.
-
-It is not a fixed graphical theme,  
-but a deliberately minimal technical base,
-designed to be:  
-
-- easy to understand  
-- easy to customize  
-- extensible without unnecessary complexity  
-- maintainable over the long term
-
----
-
-## Foundation content
-
-The project includes, among other things:  
-
-- Multiple complete and structured HTML pages  
-- A clear and consistent file architecture  
-- Organized, commented, and modular CSS  
-- A responsive layout adapted to desktop, tablet, and mobile screens  
-- A heading hierarchy following SEO best practices  
-- ARIA attributes and an accessible structure  
-- A ready-to-use `robots.txt`  
-- A functional `sitemap.xml`  
-- Code comments serving as customization markers  
-- Usage documentation  
-- A clear usage license
-
-No external dependencies are required.
-
----
-
-## Included pages
-
-The foundation notably includes the following pages:  
+The foundation notably includes:  
 
 - Home  
 - About  
@@ -116,35 +102,34 @@ The foundation notably includes the following pages:
 - Resources  
 - Links  
 - Contact  
-- Terms of use  
-- Legal notice  
-- Privacy policy
+- Terms of Use  
+- Legal Notice  
+- Privacy Policy
 
 Each page includes:  
 
-- dedicated SEO tags  
+- its own SEO meta tags  
 - a consistent structure  
-- generic content ready to be adapted
+- generic, ready-to-adapt content
 
 ---
 
 ## Accessibility
 
-Special attention has been paid to accessibility:  
+Particular attention has been paid to accessibility:  
 
-- Proper semantic hierarchy (`h1` → `h2` → `h3`)  
-- HTML structure readable by screen readers  
-- Visually hidden text (`visually-hidden`) when relevant  
-- ARIA attributes used sparingly and appropriately
+- Proper semantic hierarchy  
+- Structured headings (`h1` → `h2` → `h3`)  
+- Screen-reader-only text (`visually-hidden`)  
+- ARIA attributes where relevant
 
-This foundation provides a solid base for projects  
-that aim to integrate accessibility from the design stage.
+This foundation provides a healthy base for projects that care about accessibility.
 
 ---
 
 ## SEO
 
-The project is optimized for search engine visibility:  
+The foundation is optimized for search engines:  
 
 - `title` and `meta description` tags per page  
 - Open Graph and Twitter Cards  
@@ -152,30 +137,74 @@ The project is optimized for search engine visibility:
 - Sitemap  
 - Robots.txt
 
-The provided content is intentionally generic  
-and must be customized before any production deployment.
+Content is intentionally generic and must be customized  
+before any final production deployment.
 
 ---
 
-## Quick customization
+## Quick Customization
 
 To adapt the site to your project:  
 
-Replace the logo in `assets/img/`  
-Edit the text content in the HTML files  
-Adjust colors in `:root`  
-Extend or adapt the existing CSS  
-Add JavaScript if needed
+- Replace the logo in `assets/img/`  
+- Edit the text content in the HTML files  
+- Adjust colors in `:root`  
+- Adapt or extend the existing CSS  
+- Add JavaScript scripts if needed (optional)  
+- Icons, favicons, and logos are not provided and must be added by the user
 
-The CSS can be:  
+By default, CSS is embedded directly into the pages.
 
-embedded directly into the pages  
-or kept in `assets/css/style.css`
-
-The comments included in the code act as markers  
-and make onboarding easier.
+An option allows loading styles from an external file  
+(`/assets/css/style.css`): the `<link>` line is already present  
+but commented out and can be enabled at any time.
 
 ---
 
+## What This Project Is Not
+
+This foundation **is not**:  
+
+- a CMS  
+- a turnkey consumer website  
+- a visual page builder  
+- a JavaScript framework
+
+It is intended for technical users  
+or teams looking for a clean and fully controlled starting point.
+
+---
+
+## Philosophy
+
+This foundation prioritizes:  
+
+- clarity over visual effects  
+- readability over over-optimization  
+- code ownership over opaque automation
+
+It is designed as a **foundation**, not as an end product.
+
+---
+
+## Support
+
+No support is included.
+
+This project is intended for users who can:  
+
+- read and understand HTML / CSS  
+- adapt the content to their needs  
+- manage their own deployment
+
+---
+
+## Conclusion
+
+If you are looking for a reliable, clean, and durable base  
+to start a professional static website,  
+this foundation was designed to save you time  
+without sacrificing quality or understanding.
+
 © Palks Studio — see LICENSE.md  
-https://palks-studio.com
+- https://palks-studio.com

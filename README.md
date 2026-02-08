@@ -16,6 +16,9 @@
 
 # Palks Studio — Professional Static Website Foundation
 
+> This repository is a technical presentation and documentation repository.  
+> It does not contain downloadable source code or production files.
+
 A complete static website base designed to serve as a clear, autonomous, and durable foundation  
 for professional, technical, or editorial projects.
 

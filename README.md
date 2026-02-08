@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/fr_static_site_1.png"
+  <img src="docs/images/en_static_site_1.png"
        alt="Static website homepage — example of a clean and structured static site layout"
        width="1200">
 </p>

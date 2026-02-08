@@ -14,10 +14,10 @@
   </a>
 </p>
 
+# Palks Studio — Fondation de Site Web Statique Professionnel
+
 > Ce dépôt constitue une présentation technique et une documentation du projet.  
 > Il ne contient pas de code source téléchargeable ni de fichiers de production.
-
-# Palks Studio — Fondation de Site Web Statique Professionnel
 
 Base complète de site web statique conçue pour servir de **fondation claire, autonome et durable**  
 à des projets professionnels ou techniques.

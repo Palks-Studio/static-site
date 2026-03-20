@@ -30,6 +30,8 @@ This foundation is intended for **developers, integrators, and technical teams**
 who want to keep full control over their code,  
 without relying on heavy frameworks, CMSs, or third-party services.
 
+https://palks-studio.com/en/static-site
+
 ---
 
 ## Project Goal

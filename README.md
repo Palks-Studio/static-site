@@ -30,7 +30,7 @@ This foundation is intended for **developers, integrators, and technical teams**
 who want to keep full control over their code,  
 without relying on heavy frameworks, CMSs, or third-party services.
 
-https://palks-studio.com/en/static-site
+[![Static Site Foundation](https://img.shields.io/badge/Static%20Site-Foundation-0095b1?style=flat)](https://palks-studio.com/en/static-site)
 
 ---
 

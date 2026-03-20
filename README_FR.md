@@ -30,6 +30,8 @@ Ce socle s’adresse à des **développeurs, intégrateurs ou équipes technique
 souhaitant garder un contrôle total sur leur code,  
 sans dépendre de frameworks lourds, de CMS ou de services tiers.
 
+[![Socle site statique](https://img.shields.io/badge/Socle%20site%20statique-0095b1?style=flat)](https://palks-studio.com/fr/static-site)
+
 ---
 
 ## Objectif du projet

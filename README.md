@@ -10,6 +10,7 @@
 ![Static Site](https://img.shields.io/badge/Type-Static%20Site-151b1c?style=flat)
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-0095b1?style=flat)
 ![No Framework](https://img.shields.io/badge/Framework-None-0a5645?style=flat)
+[![Static Site Foundation](https://img.shields.io/badge/Static%20Site-Foundation-0095b1?style=flat)](https://palks-studio.com/en/static-site)
 
 <p align="center">
   <a href="https://palks-studio.com">

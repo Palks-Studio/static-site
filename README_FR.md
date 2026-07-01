@@ -118,6 +118,9 @@ Chaque page dispose :
 - d’une structure cohérente  
 - d’un contenu générique prêt à être adapté
 
+YouTube :
+https://www.youtube.com/watch?v=KXg_ZAJG0XE
+
 ---
 
 ## Accessibilité

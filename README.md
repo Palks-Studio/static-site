@@ -118,6 +118,9 @@ Each page includes:
 - a consistent structure  
 - generic, ready-to-adapt content
 
+YouTube:
+https://www.youtube.com/watch?v=bZvdRW8drpQ
+
 ---
 
 ## Accessibility

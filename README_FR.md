@@ -32,7 +32,13 @@ Ce socle s’adresse à des **développeurs, intégrateurs ou équipes technique
 souhaitant garder un contrôle total sur leur code,  
 sans dépendre de frameworks lourds, de CMS ou de services tiers.
 
-[![Socle site statique](https://img.shields.io/badge/Socle%20site%20statique-0095b1?style=flat)](https://palks-studio.com/fr/static-site)
+Le socle technique est disponible en navigation directe ici :
+
+[Accéder à la démonstration](https://demo.palks-studio.com/)
+
+Une démonstration vidéo est également disponible ici :
+
+[Voir la vidéo](https://www.youtube.com/watch?v=KXg_ZAJG0XE)
 
 ---
 
@@ -98,6 +104,8 @@ Aucune dépendance externe n’est imposée.
 ```
 
 
+[Voir la ressource](https://palks-studio.com/fr/static-site)
+
 ---
 
 ## Pages incluses
@@ -119,9 +127,6 @@ Chaque page dispose :
 - de ses balises SEO propres  
 - d’une structure cohérente  
 - d’un contenu générique prêt à être adapté
-
-YouTube :
-https://www.youtube.com/watch?v=KXg_ZAJG0XE
 
 ---
 

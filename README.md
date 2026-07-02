@@ -32,7 +32,14 @@ This foundation is intended for **developers, integrators, and technical teams**
 who want to keep full control over their code,  
 without relying on heavy frameworks, CMSs, or third-party services.
 
-[![Static Site Foundation](https://img.shields.io/badge/Static%20Site-Foundation-0095b1?style=flat)](https://palks-studio.com/en/static-site)
+
+The core system is available for direct access here:
+
+[Access the Demo](https://demo-en.palks-studio.com/)
+
+A video demonstration is also available here:
+
+[Watch the Video](https://www.youtube.com/watch?v=bZvdRW8drpQ)
 
 ---
 
@@ -97,6 +104,8 @@ No external dependencies are imposed.
 └── LICENSE.md                        → Terms of use and legal framework
 ```
 
+
+[View the Resource](https://palks-studio.com/en/static-site)
 
 ---
 
